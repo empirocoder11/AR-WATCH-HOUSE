@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/57556534/161338780-73f0903b-b10d-46e9-
 
 
 ## Briefly, here is how you can try it out:
-1. Download and install the APK on your Android device.
+1. Download and install the [APK](https://github.com/jainsaksham24/AR-WATCH-HOUSE/tree/master/Apk%20Link) on your Android device.
 2. Download and print the target image.
 3. Cut the target image out and place it over your wrist.
 4. Scan the image in the app. This step will work even if you skip steps 2 & 3.
